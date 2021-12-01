@@ -1,5 +1,5 @@
 # thirtydaymapchallenge2021
-This contains all the Geographic Data Science Lab entries for the 30 Day Map Challenge, designed by [Topi Tjukanov](Topi Tjukanov).
+This contains all the Geographic Data Science Lab entries for the 30 Day Map Challenge 2021, designed by [Topi Tjukanov](https://twitter.com/tjukanov).
 
 ![30DayMapChallenge](https://user-images.githubusercontent.com/57355504/144152536-b24f10c2-3144-4a0d-a486-a28c54103065.jpg)
 
@@ -13,10 +13,12 @@ Danial Owen has mapped telecommunication interactions and flows in Milan. Data a
 
 ### 3. Polygons
 Alessia Calafiore has mapped 20 minute neighbourhoods (A) and number of accessible services in a 10-min walk (B) for the Liverpool City Region.
+
 ![FDMkLx7WYAUekbs](https://user-images.githubusercontent.com/57355504/144151826-c39fd916-284f-4e8c-b9da-3113710b5770.png)
 
 ### 4. Hexagons
 Mark Green gas mapped food outlets in Liverpool, using hexagons that help to better visualise the data compared to points.
+
 ![FDMjMuMXsAsYrzg](https://user-images.githubusercontent.com/57355504/144151877-f86e230e-0670-4e8f-bd1c-6b051cebd3f9.jpg)
 
 ### 5. Data Challenge 1: Open Street Map
@@ -37,8 +39,12 @@ Ruth Neville has mapped the Green party vote across UK constituencies , from the
 ### 8. Blue
 Gladys Kenyon has mapped the average residential property price per square meter in Barcelona, Spain (2018) Data available [here](https://bit.ly/3EYfa0r).
 
+
+
 ### 9. Monochrome
-Ellen Talbot looks at the proportion of all supermarkets represented by Tesco for each local authority in England using 2021 data from the Food Hygiene Rating Scheme accessed through the @CDRC.
+Ellen Talbot looks at the proportion of all supermarkets represented by Tesco for each local authority in England using 2021 data from the Food Hygiene Rating Scheme accessed through the CDRC.
+
+![Day9_monochrome](https://user-images.githubusercontent.com/57355504/144208078-c164e7ba-96f8-4337-86d4-47effb92fdf2.png)
 
 ### 10. Raster
 Danial Owen has created a 3D map of North Wales using OS Raster Data, QGIS and Aerialod. Instructions available [here](https://www.ordnancesurvey.co.uk/newsroom/blog/scottish-highlands-with-os-opendata).
