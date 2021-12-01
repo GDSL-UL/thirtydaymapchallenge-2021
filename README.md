@@ -8,11 +8,13 @@ Martin Fleischmann has mapped city centre hierarchies, code/data available [here
 ### 2. Lines
 Danial Owen has mapped telecommunication interactions and flows in Milan. Data available [here](http://bitly.ws/ikwH). See the animated gif [here](https://twitter.com/geodatascience/status/1455504979779887106).
 
-
-
 ### 3. Polygons
+Alessia Calafiore has mapped 20 minute neighbourhoods (A) and number of accessible services in a 10-min walk (B) for the Liverpool City Region.
+![FDMkLx7WYAUekbs](https://user-images.githubusercontent.com/57355504/144151826-c39fd916-284f-4e8c-b9da-3113710b5770.png)
 
 ### 4. Hexagons
+Mark Green gas mapped food outlets in Liverpool, using hexagons that help to better visualise the data compared to points.
+![FDMjMuMXsAsYrzg](https://user-images.githubusercontent.com/57355504/144151877-f86e230e-0670-4e8f-bd1c-6b051cebd3f9.jpg)
 
 ### 5. Data Challenge 1: Open Street Map
 
