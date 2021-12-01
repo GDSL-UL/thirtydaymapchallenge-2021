@@ -1,4 +1,5 @@
 # thirtydaymapchallenge2021
+This contains all the Geographic Data Science Lab entries for the 30 Day Map Challenge, designed by [Topi Tjukanov](Topi Tjukanov).
 
 ![30DayMapChallenge](https://user-images.githubusercontent.com/57355504/144152536-b24f10c2-3144-4a0d-a486-a28c54103065.jpg)
 
