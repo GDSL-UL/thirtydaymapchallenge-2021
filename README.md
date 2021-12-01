@@ -28,6 +28,7 @@ Niall Newsham has mapped the extent of sub-national population declines across E
 Ruth Neville has mapped the Green party vote across UK constituencies , from the 2019 general election and areas where the vote increased from the previous election. 
 
 ### 8. Blue
+Gladys Kenyon has mapped the average residential property price per square meter in Barcelona, Spain (2018) Data available [here](https://bit.ly/3EYfa0r).
 
 ### 9. Monochrome
 Ellen Talbot looks at the proportion of all supermarkets represented by Tesco for each local authority in England using 2021 data from the Food Hygiene Rating Scheme accessed through the @CDRC.
