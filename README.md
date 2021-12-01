@@ -3,6 +3,8 @@
 ### 1. Points
 Martin Fleischmann has mapped city centre hierarchies, code/data available [here](https://github.com/urbangrammarai/spatial_signatures/blob/master/esda/ttwa.ipynb). 
 
+![1](https://user-images.githubusercontent.com/57355504/144151344-6b17bc53-cded-42b2-a711-c46be9513595.png)
+
 ### 2. Lines
 
 ### 3. Polygons
