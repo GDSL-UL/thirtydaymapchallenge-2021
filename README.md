@@ -25,6 +25,8 @@ Cameron Ward has mapped the public perceptions of hydraulic fracturing in Lancas
 ### 6. Red
 Niall Newsham has mapped the extent of sub-national population declines across Europe since 2000.
 
+![Day6_Red](https://user-images.githubusercontent.com/57355504/144204392-c90ef115-4038-49c6-bdc2-a1c9e2c7b1dd.png)
+
 ### 7. Green
 Ruth Neville has mapped the Green party vote across UK constituencies , from the 2019 general election and areas where the vote increased from the previous election. 
 
