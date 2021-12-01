@@ -1,11 +1,7 @@
-# thirtydaymapchallenge
-## 30daymapchallenge entries by GDSL for 2021
+# thirtydaymapchallenge2021
 
 ### 1. Points
-
 Martin Fleischmann has mapped city centre hierarchies, code/data available [here](https://github.com/urbangrammarai/spatial_signatures/blob/master/esda/ttwa.ipynb). 
-
-
 
 ### 2. Lines
 
