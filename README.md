@@ -55,7 +55,7 @@ Danial Owen has created a 3D map of North Wales using OS Raster Data, QGIS and A
 Patrick Ballantyne has mapped starbucks locations for Florida state using the h3jsr and rayshader R packages, code available [here](https://github.com/patrickballantyne/30DayMapChallenge/blob/main/README.md).
 
 ### 12. Population
-Miguel Leonardo has produced a map showing the results of a project with @fcrowe and @nnewsh_ on clustering the trajectories of population decline in Spain. 
+Miguel Leonardo has produced a map showing the results of a project with Francisco Rowe and Niall Newsham clustering the trajectories of population decline in Spain. 
 
 ![Day12_Population](https://user-images.githubusercontent.com/57355504/144205282-4b1c92c5-c414-4579-a043-6046a06f0926.png)
 
@@ -80,7 +80,7 @@ Urban and rural doesn't need to be binary. Dani Arribas-Bel and Martin Fleischma
 ![day_16_urban_rural_30dmc](https://user-images.githubusercontent.com/57355504/144205784-014270b6-d621-45f8-9507-55958258ecfe.png)
 
 ### 17. Land
-Nikos Patias maps the Sustainable Urban Development Index that aims to promote sustainable urban land use and improve neighbourhood social cohesion. Find out more [here](https://bit.ly/3pPm04o #30DayMapChallenge).
+Nikos Patias maps the Sustainable Urban Development Index that aims to promote sustainable urban land use and improve neighbourhood social cohesion. Find out more [here](https://bit.ly/3pPm04o).
 
 ![day17_land](https://user-images.githubusercontent.com/57355504/144205942-3516bfaf-642b-4150-94a6-064c450dafe0.jpg)
 
@@ -102,7 +102,7 @@ Paper is open access and available [here](https://bit.ly/3DwmbFy). Code availabl
 James Murphy has created a DEM of Yosemite Valley, California at 10m resolution, overlayed with Sentinel-2 RGB imagery using the rayshader package, instructions [here](https://www.tylermw.com/a-step-by-step-guide-to-making-3d-maps-with-satellite-imagery-in-r/). Explore the gif [here](https://twitter.com/geodatascience/status/1462390338098585607?s=20).
 
 ### 22. Boundaries
-Andrea Nasuto has created maps showing the extent to which boundaries derived from 1 month mobility data in New York (General) change over time (yellow areas). Code available [here](https://bit.ly/3DzpxI1). To know more about how to derive boundaries from mobility data see �[here](https://bit.ly/3nveNou).
+Andrea Nasuto has created maps showing the extent to which boundaries derived from 1 month mobility data in New York (General) change over time (yellow areas). Code available [here](https://bit.ly/3DzpxI1). To know more about how to derive boundaries from mobility data see [here](https://bit.ly/3nveNou).
 
 ![day_22_boundaries](https://user-images.githubusercontent.com/57355504/144206418-c5939837-1a18-4f61-9870-52d345787fee.png)
 
@@ -117,7 +117,7 @@ Jacob Macdonald is exploring which of Englands retail centres come out on top wi
 ![Day 24_Historic](https://user-images.githubusercontent.com/57355504/144207336-ae9c0848-1f03-4737-a802-a9d66ae6adf8.jpeg)
 
 ### 25. Interactive map
-Alex Singleton maps the Internet User Classification on the new @CDRC_UK mapmaker platform. Explore the map [here](https://mapmaker.cdrc.ac.uk/#/output-area-classification).
+Alex Singleton maps the Internet User Classification on the new CDRC mapmaker platform. Explore the map [here](https://mapmaker.cdrc.ac.uk/#/output-area-classification).
 
 ### 26. Choropleth map
 Francisco Rowe maps the spatial patterns of internal migration during the pandemic revealing that northern major cities of England gained population through internal migration.
@@ -140,6 +140,6 @@ Patrick Ballantyne has mapped towns called Malice at the Local Authority Distric
 ![Day29_NULL](https://user-images.githubusercontent.com/57355504/144206958-1f141e74-92ff-4056-9108-83c0d06ce762.png)
 
 ### 30. Metamapping day
-Francisco Rowe mapped changes in energy use during the early stages of #COVID19 globally using night-time satellite imagery. Joint work Cait Robinson and Nikos Patias. See [here](https://bit.ly/3nYYDUs).
+Francisco Rowe mapped changes in energy use during the early stages of COVID-19 globally using night-time satellite imagery. Joint work Cait Robinson and Nikos Patias. See [here](https://bit.ly/3nYYDUs).
 
 ![day_30_global_map](https://user-images.githubusercontent.com/57355504/144207035-a5ca287c-782a-4f4f-a30f-4f94fe68dafb.png)
