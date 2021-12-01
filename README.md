@@ -1,62 +1,66 @@
 # thirtydaymapchallenge
 ## 30daymapchallenge entries by GDSL for 2021
 
-## 1. Points
+### 1. Points
 
-## 2. Lines
+Martin Fleischmann has mapped city centre hierarchies, code/data available [here](https://github.com/urbangrammarai/spatial_signatures/blob/master/esda/ttwa.ipynb). 
 
-## 3. Polygons
 
-## 4. Hexagons
 
-## 5. Data Challenge 1: Open Street Map
+### 2. Lines
 
-## 6. Red
+### 3. Polygons
 
-## 7. Green
+### 4. Hexagons
 
-## 8. Blue
+### 5. Data Challenge 1: Open Street Map
 
-## 9. Monochrome
+### 6. Red
 
-## 10. Raster
+### 7. Green
 
-## 11. 3D
+### 8. Blue
 
-## 12. Population
+### 9. Monochrome
 
-## 13. Data Challenge 2: Natural Earth
+### 10. Raster
 
-## 14. Map with a new tool
+### 11. 3D
 
-## 15. Map made without using a computer
+### 12. Population
 
-## 16. Urban/rural
+### 13. Data Challenge 2: Natural Earth
 
-## 17. Land
+### 14. Map with a new tool
 
-## 18. Water
+### 15. Map made without using a computer
 
-## 19. Island(s)
+### 16. Urban/rural
 
-## 20. Movement
+### 17. Land
 
-## 21. Elevation
+### 18. Water
 
-## 22. Boundaries
+### 19. Island(s)
 
-## 23. Data challenge 3: GHSL
+### 20. Movement
 
-## 24. Historial map
+### 21. Elevation
 
-## 25. Interactive map
+### 22. Boundaries
 
-## 26. Choropleth map
+### 23. Data challenge 3: GHSL
 
-## 27. Heatmap
+### 24. Historial map
 
-## 28. The Earth is not flat
+### 25. Interactive map
 
-## 29. NULL
+### 26. Choropleth map
 
-## 30. Metamapping day
+### 27. Heatmap
+
+### 28. The Earth is not flat
+
+### 29. NULL
+
+### 30. Metamapping day
