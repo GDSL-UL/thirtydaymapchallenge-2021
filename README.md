@@ -1,5 +1,7 @@
 # thirtydaymapchallenge2021
 
+![30DayMapChallenge](https://user-images.githubusercontent.com/57355504/144152536-b24f10c2-3144-4a0d-a486-a28c54103065.jpg)
+
 ### 1. Points
 Martin Fleischmann has mapped city centre hierarchies, code/data available [here](https://github.com/urbangrammarai/spatial_signatures/blob/master/esda/ttwa.ipynb). 
 
